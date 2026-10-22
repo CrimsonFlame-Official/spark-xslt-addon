@@ -1,0 +1,1 @@
+{"author":"CrimsonFlame","description":"Official Spark add-on that adds XSLT support as an opt-in extra, so older XML sites that rely on XSLT keep working without building it into the browser core. Covers a working core subset of XSLT 1.0.","entry":"src/xslt.js","id":"spark-xslt","name":"XSLT","type":"addon","version":"0.1.0"}

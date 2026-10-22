@@ -1,0 +1,17 @@
+<catalog>
+  <book id="b1">
+    <title>The Hobbit</title>
+    <author>Tolkien</author>
+    <year>1937</year>
+  </book>
+  <book id="b2">
+    <title>Dune</title>
+    <author>Herbert</author>
+    <year>1965</year>
+  </book>
+  <book id="b3">
+    <title>Neuromancer</title>
+    <author>Gibson</author>
+    <year>1984</year>
+  </book>
+</catalog>
